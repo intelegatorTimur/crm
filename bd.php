@@ -1,0 +1,6 @@
+<?php
+
+$PDO = new PDO
+
+
+?>
